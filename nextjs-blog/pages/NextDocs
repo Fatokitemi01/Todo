@@ -1,0 +1,12 @@
+    To start a Next.js App use 
+    "npm run dev or yarn dev to start the development server on http://localhost:3000"
+
+<Head> is used instead of <head>
+
+To use Tailwind
+1. Install Tailwind with npm Install tailwindcss
+2. Create a style folder 
+3. Create an index.css file in the style folder
+4. Install tailwind config file using "npx tailwind init"
+5. create a postcss file 
+
